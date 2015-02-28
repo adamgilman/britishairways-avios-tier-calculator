@@ -52,3 +52,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+bin/*
+include/*
+lib/*
+man/*
+
+pip-selfcheck.json
