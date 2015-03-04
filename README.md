@@ -1,4 +1,4 @@
-# British Airways Avios/Tier API
+# British Airways Avios/Tier API [![Build Status](https://travis-ci.org/adamgilman/britishairways-avios-tier-calculator.svg?branch=master)](https://travis-ci.org/adamgilman/britishairways-avios-tier-calculator)
 
 Python API for British Airways Avios / Tier Point Calculator
 
